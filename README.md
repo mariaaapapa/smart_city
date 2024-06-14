@@ -28,7 +28,7 @@
 
 Ακολουθούν σύνδεσμοι με τα videos που συνοδεύουν το έργο μας:
 <br>[Ξενάγηση στην Έξυπνη Πόλη](https://youtu.be/e4sk_O5HffA)
-<br>[Παρουσίαση του project](https://youtu.be/DWgtCcYy3HA)
+<br>[Παρουσίαση του project](https://youtu.be/ALhfqT-JCKI)
 <br>[Προγραμματισμός](https://youtu.be/kaSLtZpC0Kk)
 
 
