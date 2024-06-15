@@ -49,12 +49,19 @@
 **Απαραίτητα Υλικά**
 
 Water Level Sensor for Arduino
+
 Soil Hygrometer / Moisture Detection Module (for Arduino)
+
 5v Relay Module for Arduino
+
 Mini Water Pump Submersible
+
 Σωληνάκι Διάφανο 1m για Mini Water Pump
+
 DHT11 Module (Digital Humidity & Temperature Sensor)
+
 LCD 16x2 with IIC/I2C/TWI SPI
+
 
 5V Active Buzzer
 
@@ -71,20 +78,26 @@ LED  5mm
 
 
 Board UNO R3 ATmega328P DIP for Arduino IDE
+
 Mini BreadBoard
 
 Hobby Motor 12V DC 6900rpm
+
 Έλικας Ανεμογεννήτριας 21 εκ
 
 Λαμπάκια Ηλιακά LED με Αισθητήρα Φωτός
 
 Dupont Jumper Cables
+
 Terminal Blocks
+
 Αντιστάσεις
+
 Δίοδος
 
 Διάφορα Αλώσιμα για Μακέτα
 
 Κόστος: 158,50 €
+
 
 Εκτός διαγωνιστικού μέρους: Πλακέτα Touch Board Bare Conductive
