@@ -57,11 +57,17 @@ DHT11 Module (Digital Humidity & Temperature Sensor)
 LCD 16x2 with IIC/I2C/TWI SPI
 
 5V Active Buzzer
+
 Servo Micro Motor 9G SG90
+
 Pushbutton Switch
+
 LED Traffic Light Display Module 5V
+
 Flame Detection Sensor (for Arduino)
+
 LED  5mm
+
 
 
 Board UNO R3 ATmega328P DIP for Arduino IDE
